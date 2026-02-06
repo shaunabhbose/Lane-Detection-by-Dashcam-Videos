@@ -19,3 +19,4 @@ This project implements a real-time **lane detection system** using Python and O
 Lane detection is a foundational problem in autonomous vehicle perception. This project provides an educational, modular implementation that illustrates how raw visual data is transformed into structured roadway information in real time.
 
 
+##For additional information, please refer to the report and/or the code in .github
